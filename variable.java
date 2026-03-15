@@ -6,14 +6,14 @@ public class variable {
      int b = 98 ;
      int c = 98 ;
      int sum = a+b+c;
-    //  System.out.println(sum);
+     System.out.println(sum);
     int diff = a-b;
     // System.out.println(diff);
     int mul = a * b;
     // System.out.println(mul);
-    Scanner sc = new Scanner(System.in);
-    String name = sc.nextLine();
-    System.out.println(name);
+    // Scanner sc = new Scanner(System.in);
+    // String name = sc.nextLine();
+    // System.out.println(name);
 
     }
 }
