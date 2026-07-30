@@ -18,6 +18,7 @@ public class bank {
         Account1.email="apnacollegae@gmail.com";
         Account1.setpassword("abcd");
         System.out.println(Account1.getpassword());
+        System.out.println(Account1.email);
     }
     
 }
